@@ -1,0 +1,10 @@
+{
+    "name": "vanquyet/yii2-siteparam",
+    "authors": [
+        {
+            "name": "vanquyettran",
+            "email": "vanquyettran@hotmail.com"
+        }
+    ],
+    "require": {}
+}
